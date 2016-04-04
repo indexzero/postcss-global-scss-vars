@@ -1,6 +1,6 @@
 {
   "name": "postcss-global-scss-vars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inject global variables into your scss using postcss",
   "main": "index.js",
   "scripts": {
