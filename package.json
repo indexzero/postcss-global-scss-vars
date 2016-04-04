@@ -31,6 +31,7 @@
     "assume": "^1.4.1",
     "istanbul": "^0.4.2",
     "mocha": "^2.4.5",
-    "postcss": "^5.0.19"
+    "postcss": "^5.0.19",
+    "postcss-scss": "^0.1.7"
   }
 }
