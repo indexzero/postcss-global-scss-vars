@@ -1,0 +1,37 @@
+{
+  "name": "postcss-global-scss-vars",
+  "version": "0.0.0",
+  "description": "Inject global variables into your scss using postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexzero/postcss-global-scss-vars.git"
+  },
+  "keywords": [
+    "postcss",
+    "scss",
+    "variables"
+  ],
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexzero/postcss-global-scss-vars/issues"
+  },
+  "homepage": "https://github.com/indexzero/postcss-global-scss-vars#readme",
+  "dependencies": {
+    "diagnostics": "^1.0.1"
+  },
+  "peerDependencies": {
+    "postcss": "*"
+  },
+  "devDependencies": {
+    "assume": "^1.4.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "postcss": "^5.0.19",
+    "postcss-scss": "^0.1.7"
+  }
+}
